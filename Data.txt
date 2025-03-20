@@ -179,7 +179,7 @@ Here is a list of pesticides sourced for managing diseases in rice, wheat, and m
    - **Sources**:  https://www.lsuagcenter.com/~/media/system/9/f/f/e/9ffe9863a7474e8a7fcf94211fc2fd7f/sheath%20blight%20management.pdf , https://extension.missouri.edu/media/wysiwyg/Extensiondata/Pub/pdf/miscpubs/mp0646.pdf
 
 4. **Gray Leaf Spot (Cercospora zeae-maydis)**  
-   - **Pesticides**: Azoxystrobin  
+   - **Pesticides**: Azoxystrobin  j
    - **Sources**:   https://www.ijpab.com/form/2018%20Volume%206,%20issue%204/IJPAB-2018-6-4-651-655.pdf , https://www.lsuagcenter.com/~/media/system/9/f/f/e/9ffe9863a7474e8a7fcf94211fc2fd7f/sheath%20blight%20management.pdf
 
----
+  ---

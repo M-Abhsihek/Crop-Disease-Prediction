@@ -45,7 +45,7 @@ if "chat_history" not in st.session_state:
 rice_gdrive_link = "https://drive.google.com/uc?id=1_FDbnUGWtJRj4WuSuYeku1q-nhWHEHXz"
 wheat_gdrive_link = "https://drive.google.com/uc?id=1nxktul7vEjszl9SRpmTKM0d4JoKtAXic"
 maize_gdrive_link = "https://drive.google.com/uc?id=1pAt_0GucbhbuLdkqa1gVw8tHdBFaHH_T"
-
+ 
 # Load YOLO Models
 def download_model_if_missing(gdrive_link, model_path):
     """Download the model from Google Drive if it's not present locally."""
